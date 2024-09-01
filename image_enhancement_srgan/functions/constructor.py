@@ -1,7 +1,7 @@
-class discriminator:
+class Constructor:
 
     def __init__(self) -> None:
         pass
 
-    def discriminator():
+    def constructor():
         pass
