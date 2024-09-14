@@ -21,7 +21,7 @@ class Compress:
 
             for path in paths:
 
-                dest = self.dest_path + os.path.basename(path) + self.img_format
+                dest = self.dest_path + os.path.basename(path)
 
                 with Image.open(path) as img:
 
